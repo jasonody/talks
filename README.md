@@ -9,7 +9,7 @@ A collection of the technical talks and presentations that I have given.
 
 ### Getting Started with Angular
 
-Lunch and Learn, UC Davis - October 2015
+Lunch and Learn, UC Davis - October 2015  
 [Code4Sac - May 2015](http://www.meetup.com/Code4Sac/events/222420789/)
 
 > Core Team member Jason Ody will help you build an Angular app in 15 minutes. We'll be using the OpenWeatherMap API to show you how easy it is to consume open data with Angular.
