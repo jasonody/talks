@@ -14,7 +14,7 @@ Lunch and Learn, UC Davis - October 2015
 
 > Core Team member Jason Ody will help you build an Angular app in 15 minutes. We'll be using the OpenWeatherMap API to show you how easy it is to consume open data with Angular.
 
-[Plunkr](http://plnkr.co/edit/4H0nZAlkAr3X6pfypREq?p=preview)
+[Plunker](http://plnkr.co/edit/sRFuU1?p=preview)
 
 ### Live Demonstration: Introduction to GruntJS
 
