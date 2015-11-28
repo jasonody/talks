@@ -3,9 +3,10 @@ A collection of the technical talks and presentations that I have given.
 
 ### Next Steps with Angular: Services and Directives
 
-UC Davis - November 2015
-
+UC Davis - November 2015  
 [Plunker](http://plnkr.co/edit/nAsl74?p=preview)
+
+> Applying the Single Responsibility Principle using services and directives to improve the maintainability of our weather app.
 
 ### Unit Testing Angular
 [Sacramento Angular Meetup - July 2015](http://www.meetup.com/Sacramento-Angular-Meetup/events/223947799/) |
