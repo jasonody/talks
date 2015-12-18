@@ -3,7 +3,9 @@ A collection of the technical talks and presentations that I have given.
 
 ### Advanced Angular
 
-UC Davis - TBD
+UC Davis - December 2015
+
+> Looking at some of the advanced features of Angular.
 
 [Plunker: Watches, Filters, Directives and Transclusion](http://plnkr.co/edit/po1lXw?p=info) | [Plunker: Events, Filters, Directives and Transclusion](http://plnkr.co/edit/jSCFed?p=info)
 
