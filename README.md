@@ -1,6 +1,14 @@
 # Talks by Jason Ody
 A collection of the technical talks and presentations that I have given.
 
+### Event Driven Architecture
+
+SkySlope - February 2019
+
+> Asynchronous system design and event driven architecture.
+
+[Repo](https://github.com/jasonody/event-streaming-demo)
+
 ### Advanced Angular
 
 UC Davis - December 2015
@@ -13,7 +21,7 @@ UC Davis - December 2015
 
 UC Davis - November 2015
 
-> Applying the Single Responsibility Principle using services and directives to improve the maintainability of the weather app.
+> Applying the Single Responsibility Principle by using services and directives to improve the maintainability of the weather app.
 
 [Plunker](http://plnkr.co/edit/nAsl74?p=info)
 
