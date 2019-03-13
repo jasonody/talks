@@ -7,7 +7,7 @@ SkySlope - February 2019
 
 > Asynchronous system design and event driven architecture.
 
-[Repo](https://github.com/jasonody/event-streaming-demo)|[Architecture](https://github.com/jasonody/event-streaming-demo/blob/master/architecture.png)
+[Repo](https://github.com/jasonody/event-streaming-demo) | [Architecture](https://github.com/jasonody/event-streaming-demo/blob/master/architecture.png)
 
 ### Advanced Angular
 
